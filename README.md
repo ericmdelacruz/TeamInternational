@@ -7,7 +7,7 @@ Run through Text Explorer, Can be run secuentially using the same browser instan
 ## Design Notes
 
 - Edit Properties\System.cs to adjust driver and report to proper paths at your end.
-- Added a last test case for showing the report.
+- Added a last test case with an error for showing it in the report.
 
 ## Video URL
 
