@@ -71,11 +71,13 @@ namespace TeamInternational.Tests
         }
 
         //This part is just to make it visible for the video, remove when done
+        /*
         [TearDown]
         protected static void MakeEndingVisibleforAWhile()
         {
             Thread.Sleep(5 * 1000);
         }
+        */
 
         public static IWebDriver Driver { get => driver; set => driver = value; }
         public static ExtentTest Test { get => test; set => test = value; }
