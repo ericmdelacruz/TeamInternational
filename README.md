@@ -8,6 +8,7 @@ Run through Text Explorer, Can be run secuentially using the same browser instan
 
 - Edit Properties\System.cs to adjust driver and report to proper paths at your end.
 - Added a last test case with an error for showing it in the report.
+- Due to security reasons chrome webdriver is not included in the project
 
 ## Video URL
 
